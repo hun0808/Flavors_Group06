@@ -12,13 +12,13 @@ Group No: 06
 
 List Of Member:
 
-Phan Gia Hưng (Student1379731)
+  Phan Gia Hưng (Student1379731)
 
-Đào Đức Bình (Student1376110)
+  Đào Đức Bình (Student1376110)
 
-Nguyễn Ngọc Điệp (Student1376121)
+  Nguyễn Ngọc Điệp (Student1376121)
 
-Vũ Văn Cao Trí (Student1376119)
+  Vũ Văn Cao Trí (Student1376119)
 
 =======================================
 
@@ -26,7 +26,7 @@ Documentations : https://github.com/hun0808/Flavors_Group06/tree/main/documentat
 
 =======================================
 
-Published website : https://github.com/hun0808/Flavors_Group06
+Published website : https://hun0808.github.io/Flavors_Group06/
 
 =======================================
 
